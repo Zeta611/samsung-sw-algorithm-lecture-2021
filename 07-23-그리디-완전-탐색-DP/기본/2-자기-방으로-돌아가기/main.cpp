@@ -27,8 +27,8 @@ int min_time(int *src, int *dest, int size)
 
 int main(int argc, char **argv)
 {
-    // std::ios_base::sync_with_stdio(false);
-    // std::cin.tie(NULL);
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
 
     int T;
     std::cin >> T;
