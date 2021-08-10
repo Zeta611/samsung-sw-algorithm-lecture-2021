@@ -1,0 +1,20 @@
+1 100
+18
+100
+200 frog
+200 flag
+200 flag
+200 play
+400 fl*g 2
+400 f*g 3
+300 flag 2
+400 flag 0
+200 slay
+200 slayer
+200 slave
+400 slay* 2
+300 *lay 2
+400 s* 2
+400 * 3
+300 * 3
+400 * 0
